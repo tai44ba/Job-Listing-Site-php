@@ -1,0 +1,16 @@
+{
+    "name":"tai44ba/job-listing-site-php",
+    "description": "job listing application",
+    "authors": [
+        {
+            "name": "Taishi",
+            "email": "shiita.taishi@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/",
+            "Framework\\": "Framework/"
+        }
+    }    
+}
